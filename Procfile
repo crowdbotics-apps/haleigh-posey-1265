@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT haleigh_posey_1265.wsgi:application
